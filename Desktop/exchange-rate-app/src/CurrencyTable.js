@@ -1,4 +1,3 @@
-
 // CurrencyTable.js
 import React from 'react';
 
